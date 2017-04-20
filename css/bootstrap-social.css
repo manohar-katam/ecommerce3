@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+    <head>
+
+        	<title>Page Not Found - The University of Texas at Dallas</title>
+			
+			<meta name='author' content='UT Dallas' />
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+			<meta name="WT.cg_n" content="Gateway">
+
+			<script src='/websvcs/shared/jquery-1.8.2.min.js'></script>
+			<script src='/websvcs/shared/jquery-ui-1.9.1.js'></script>
+			<script src='/websvcs/templates/bbs/js/hoverintent.js'></script>
+			<script src='/websvcs/templates/gateway/js/home-responsive.js'></script>
+
+
+			<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+			<link href='/websvcs/templates/gateway/css/responsive.css' rel='stylesheet' type='text/css' media='all' />
+
+
+			<!--[if IE 8]><link href='/websvcs/templates/gateway/css/ie-8.css' type='text/css' rel='stylesheet'><![endif]-->
+			<!--[if IE 7]><link href='/websvcs/templates/gateway/css/ie-7.css' type='text/css' rel='stylesheet'><![endif]-->
+
+
+    </head>
+	
+	<body>
+		<div id='wrapper'>
+				<ul class="skiplist skip">
+		<li class='skip'><a href="#content">Skip to Main Content.</a></li>
+		<li class='skip'><a href="#navigation">Skip to Main Navigation.</a></li>
+		<li class='skip'><a href="#footer">Skip to Main Footer.</a></li>
+	</ul>
+
+	<header>
+		<div class='desktop'>
+			<div id="header-left" class="left">
+				<a id="logo" href="/index.html"><img alt="UT Dallas Logo" src="/websvcs/templates/gateway/images/logo-ie.png"></a>
+			</div>
+			<div id="header-right" class="right">
+				<ul id="top-links">
+					<li><a id="directories" href="http://www.utdallas.edu/directory">DIRECTORY</a></li>
+					<li><a id="maps" href="http://www.utdallas.edu/maps">CAMPUS MAP</a></li>
+					<li><a id="eLearning" href="https://elearning.utdallas.edu">eLEARNING</a></li>
+					<li><a id="galaxy" href="https://galaxy.utdallas.edu/">GALAXY</a></li>
+				</ul>
+				<div id="search">
+					<form action="/search/" class="contentSearch">
+					  <input type="hidden" value="main" name="s">
+					  <input type="text" value="Search UT Dallas" name="q" onclick="this.value=''" class="headerInput">
+					  <input type="submit" value="" class="headerGo">
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class='mobile'>
+			<div id='mobile-header'>
+				<div id='mobile-search-icon'></div>
+				<div id='mobile-logo'><a href='/'><img src='/websvcs/templates/gateway/images/logo-ie.png' /></a></div>
+				<div id='mobile-menu-icon'></div>
+			</div>
+			<div id='mobile-search-container'>
+				<form action="/search/" class="contentSearch">
+					  <input type="hidden" value="main" name="s">
+					  <input type="text" value="Search UT Dallas" name="q" onclick="this.value=''" class="headerInput">
+					  <input type="submit" value="" class="headerGo">
+					</form>
+			</div>
+			<div id='mobile-menu-container'>
+				<div id=''>
+					<div id="mobile-toplinks">
+						<a href="http://www.utdallas.edu/directory">DIRECTORY</a> | 
+						<a href="http://www.utdallas.edu/maps">CAMPUS MAP</a> |
+						<a href="https://elearning.utdallas.edu">eLEARNING</a> |
+						<a href="/galaxy/">GALAXY</a>
+					</div>
+					<ul>
+						<li><a href="/admissions/">Future Students</a></li>
+						<li><a href="/current/">Current Students</a></li>
+						<li><a href="/faculty/">Faculty & Staff</a></li>
+						<li><a href="http://alumni.utdallas.edu/">Alumni & Friends</a></li>
+						<li><a href="/parents/">Parents & Family</a></li>
+						<li><a href="/visitors/">Visitors</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</header>
+
+
+
+					<nav class="desktop" id="nav-bar">
+			<ul id="mainlinks">
+				<li class="first future"><a id="future" href="/admissions/">Future Students</a>
+					<ul class='sub'>
+						<li><a href="/admissions">Admissions</a></li>
+						<li><a href="/academics">Academic Programs</a></li>
+						<li><a href="/student/finaid/">Financial Aid</a></li>
+						<li><a href="/scholarships">Scholarships</a></li>
+						<li><a href="/tuition">Tuition</a></li>
+					</ul>
+				</li>
+				<li class="current"><a id="current" href="/current/">Current Students</a>
+					<ul class='sub'>
+						<li><a href="/academiccalendar">Academic Calendar</a></li>
+						<li><a href="/athletics">Athletics</a></li>
+						<li><a href="http://coursebook.utdallas.edu/">Course Lookup</a></li>
+						<li><a href="/library">Library</a></li>
+						<li><a href="/student/registrar">Registrar</a></li>
+					</ul>
+				</li>
+				<li class="facstaff"><a id="facstaff" href="/faculty/">Faculty &amp; Staff</a>
+					<ul class='sub'>
+						<li><a href="http://provost.utdallas.edu">Provost</a></li>
+						<li><a href="/research">Research</a></li>
+						<li><a href="/forms">Forms</a></li>
+						<li><a href="/senate">Academic Senate</a></li>
+						<li><a href="/staffcouncil">Staff Council</a></li>
+					</ul>
+				</li>
+				<li class="alumfriends"><a id="alumfriends" href="/alumni/">Alumni &amp; Friends</a>
+					<ul class='sub'>
+						<li><a href="http://alumni.utdallas.edu/netcommunity">Alumni Relations</a></li>
+						<li><a href="/corporate">Corporate Relations</a></li>
+						<li><a href="/career">Career Center</a></li>
+						<li><a href="https://alumni.utdallas.edu/SSLPage.aspx?pid=611">Giving</a></li>
+						<li><a href="http://alumni.utdallas.edu/Page.aspx?pid=598">The LINK</a></li>
+					</ul>
+				</li>
+				<li class="family"><a id="family" href="/parents/">Parents &amp; Families</a>
+					<ul class='sub'>
+						<li><a href="/parents/offer">What We Offer</a></li>
+						<li><a href="/tuition">Tuition</a></li>
+						<li><a href="/family/">Comet Families</a></li>
+						<li><a href="/publications">Publications</a></li>
+						<li><a href="/enroll/visit/safety.php">Campus Safety</a></li>
+					</ul>
+				</li>
+				<li class="visitors"><a id="visitors" href="/visitors/">Visitors</a>
+					<ul class='sub'>
+						<li><a href="/maps">Campus Map</a></li>
+						<li><a href="/dining">Dining</a></li>
+						<li><a href="/directions">Directions</a></li>
+						<li><a href="/parking">Parking</a></li>
+						<li><a href="/news/thisweek/">This Week at UT Dallas</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+
+			<div id='body-container-full-width-white-background' class='content-container'>
+				<div class="page-title page-title-menu page-directions-menu" id="full-width-title"><span>Page Not Found</span></div>
+				<div id='page-content'>
+					<p>&nbsp;</p>
+					<p id='missing-paragraph'>The page you requested does not exist: <span id='page-url'></span></p>
+					<div id='missing-container' class='width-66 left'>
+						<div class='vertical-flex'>
+							<p><b>You may have arrived here because of:</b></p>
+							<ul>
+								<li>a<strong> broken link,</strong> or</li>
+								<li>an <strong>out-of date bookmark,</strong> or</li>
+								<li>a <strong>search engine</strong> which needs to be updated, or</li>
+								<li>a <strong>mistyped website address.</strong></li>
+							</ul>
+						</div>
+						<div class='vertical-flex'>
+							<p><b>The following may help you find the page you're looking for:</b></p>
+							<ul>
+								<li><a href="/">UT Dallas homepage</a></li>
+								<li><a href="/siteindex">A to Z Index</a></li>
+								<li>Search the UT Dallas website:<br>
+									<form class="contentSearch" action="/search/">
+									<input type="hidden" name="cx" value="003301866016549579351:qzuok7_vm7c">
+									<input type="hidden" name="cof" value="FORID:9">
+									<input class="width-55 left" onclick="this.value=''" size="40" type="text" name="q" value="Search UT Dallas">
+									<input class="width-25 left" type="submit" value="Search">
+									<br style='clear:both;' />
+								</form>
+								</li>
+							</ul>
+						</div>
+						<div class='vertical-flex'>
+							<p style='clear: both;'>Please contact <a href='/cdn-cgi/l/email-protection#abdccec9cfceddcec7c4dbced9ebdedfcfcac7c7cad885cecfde'><span class="__cf_email__" data-cfemail="72051710161704171e1d02170032070616131e1e13015c171607">[email&#160;protected]</span><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></a> to report a broken link.</p>
+						</div>
+					</div>
+					<div class='width-30 left desktop'>
+						<img src='/error/images/icecream.png' class='width-100' />
+					</div>
+					
+				</div>
+				
+				<div style='clear:both;'></div>
+			</div><!--body-container-full-width-->
+		</div><!--wrapper-->
+		
+
+		
+
+	<div id="footer-back" class='desktop'>
+		<div id="footer">
+			<a class="wordmark" href="/">The University of Texas at Dallas</a>
+			<a class="skip" name="footer"></a>
+			<footer>
+					<ul id="footernav">
+	<li class="footer-first"><a id="about" href="/about/">About UT Dallas</a>
+		<ul>
+			<li><a href="/administrative-offices/">Administrative Offices</a></li>
+			<li><a href="/contact/">Contact Information</a></li>
+			<li><a href="/create/">History</a></li>
+			<li><a href="/pardonourprogress/">Pardon Our Progress</a></li>
+			<li><a href="/publications/">Publications</a></li>
+		</ul>
+	</li>
+	<li class="footer-first"><a id="academics" href="/academics/">Academics</a>
+		<ul>
+			<li><a href="/academics/">Academic Programs</a></li>
+			<li><a href="/student/catalog/">Catalogs</a></li>
+			<li><a href="/library/">Library</a></li>
+			<li><a href="/research/">Research</a></li>
+			<li><a href="/schools/">Schools</a></li>
+		</ul>
+	</li>
+	<li class="footer-first"><a id="admissions" href="/admissions/">Admissions</a>
+		<ul>
+			<li><a href="/apply/">Apply to UT Dallas</a></li>
+			<li><a href="/status/">Application Status</a></li>
+			<li><a href="/enroll/">Freshman/Transfer</a></li>
+			<li><a href="/admissions/graduate/">Graduate</a></li>
+			<li><a href="/admissions/professional/">Professional/Executive</a></li>
+		</ul>
+	</li>
+	<li class="footer-first"><a id="life" href="/enroll/campuslife/">Campus Life</a>
+		<ul>
+			<li><a href="/athletics/">Athletics</a></li>
+			<li><a href="/spirit/">Comet Spirit</a></li>
+			<li><a href="/housing/">Housing</a></li>
+			<li><a href="/enroll/life/">Life in Our City</a></li>
+			<li><a href="/sof/">Student Organizations</a></li>
+		</ul>
+	</li>
+	<li class="footer-first"><a id="gift" href="/development/">Development</a>
+		<ul>
+			<li><a href="/development/giving/ways-to-give/">Ways to Give</a></li>
+			<li><a href="http://utdallas.plannedgiving.org/">Planned Giving</a></li>
+			<li><a href="/corporate">Corporate Relations</a></li>
+			<li><a href="/strategicplan/">Strategic Plan</a></li>
+			<li><a href="/enhance/">Campus Enhancement</a></li>
+		</ul>
+	</li>
+</ul>
+			</footer>
+		</div><!--footer-->
+		<div class="footer-bottom desktop">
+			
+			&copy; The University of Texas at Dallas | 800 W. Campbell Road, Richardson, Texas 75080-3021 | 972 883-2111 | <a href="/emergency/">Emergency Preparedness</a> | <a href="/links/">Required Links</a> | <a href="http://veterans.portal.texas.gov/en/Pages/default.aspx">Texas Veterans Portal</a> | <a href="http://www.utsystem.edu/">UT System</a>
+			<p id='mod-date'>This page last updated: <label id="lastModified">October 19, 2015</label> | <a href="/comments/">Questions or comments</a> about this page?</p>
+
+		</div>
+	</div>
+	<!--footer back-->
+
+	<div id='footer-mobile' class='mobile'>
+		<div id='footer-mobile-container'>
+	<img src='/websvcs/templates/gateway/images/white-pointer.png' />
+	<div id='social-container'>
+		<span id='connect-with-ut-dallas'>CONNECT WITH UT DALLAS</span>
+		<div id='footer-social-wrapper'>
+			<a id='m-facebook' href='https://www.facebook.com/utdallas'><img src='/websvcs/templates/gateway/images/fb.png' /></a>
+			<a id='m-instagram' href='https://www.instagram.com/ut_dallas/'><img src='/websvcs/templates/gateway/images/instagram.png' /></a>
+			<a id='m-twitter' href='https://twitter.com/ut_dallas'><img src='/websvcs/templates/gateway/images/twitter.png' /></a>
+			<a id='m-youtube' href='https://www.youtube.com/user/UTDallasComets'><img src='/websvcs/templates/gateway/images/youtube.png' /></a>
+		</div>
+	</div>
+	<div id='mobile-toolbox-container'>
+		<img src='/websvcs/templates/gateway/images/blue-pointer.png' />
+		<span id='mobile-toolbox'>MOBILE TOOLBOX</span>
+		<div id='mobile-icons-container'>
+			<div class='row'>
+				<ul>
+				<li><a id='m-academics' href='/academics/fact-sheets/'><img src='/websvcs/templates/gateway/images/academics.png' /></a><label>Academics</label></li>
+				<li><a id='m-career' href='/career/'><img src='/websvcs/templates/gateway/images/career.png' /></a><label>Career Center</label></li>
+				<li><a id='m-calendar' href='/calendar/mobile/index.php'><img src='/websvcs/templates/gateway/images/calendar.png' /></a><label>Comet Calendar</label></li>
+				</ul>
+			</div>
+					
+			<div class='row'>
+				<ul>
+				<li><a id='m-sports' href='/mobile/cometsports.html'><img src='/websvcs/templates/gateway/images/sports.png' /></a><label>Comet Sports</label></li>
+				<li><a id='m-create' href='http://guide.utdallas.edu'><img src='/websvcs/templates/gateway/images/guide.png' /></a><label>Create Your <br />Own Guide</label></li>
+				<li><a id='m-email' href='/mobile/email.html'><img src='/websvcs/templates/gateway/images/email.png' /></a><label>Email</label></li>
+				</ul>
+			</div>
+					
+			<div class='row'>
+				<ul>
+				<li><a id='m-emergency' href='/mobile/emergency.html'><img src='/websvcs/templates/gateway/images/emergency.png' /></a><label>Emergency</label></li>
+				<li><a id='m-ezpay' href='https://ezpay.utdallas.edu/C20239_tbpmobile/login.xhtml?newSession=true'><img src='/websvcs/templates/gateway/images/ezpay.png' /></a><label>EZPay Mobile</label></li>
+				<li><a id='m-library' href='/library/mobile/'><img src='/websvcs/templates/gateway/images/library.png' /></a><label>Library</label></li>
+				</ul>
+			</div>
+					
+			<div class='row' id='mapAndSearch'>
+				<ul>	
+				<li><a id='m-news' href='/news/index.php'><img src='/websvcs/templates/gateway/images/news.png' /></a><label>News Center</label></li>
+				<li><a id='m-course' href='https://sis-cs-prod.utdallas.edu/psp/DCSPRD/?cmd=login'><img src='/websvcs/templates/gateway/images/orion.png' /></a><label>Student Galaxy</label></li>
+				<li><a id='m-tour' href="http://www.youvisit.com/tour/63415/?pl=wa&amp;hover=0"><img src="/websvcs/templates/gateway/images/tour.png"></a><label>Virtual Tour</label></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+	<div class="footer-bottom mobile">
+		<img src='/websvcs/templates/gateway/images/orange-pointer.png' />
+		<div id='footer-content'>
+			<a href="/emergency/">Emergency Preparedness</a> | <a href="/links/">Required Links</a> <br />
+			<a href="http://veterans.portal.texas.gov/en/Pages/default.aspx">Texas Veterans Portal</a> | <a href="http://www.utsystem.edu/">UT System</a>
+			<span id='mobile-wordmark'>The University of Texas at Dallas</span><br />
+			800 W. Campbell Road,<br />Richardson, Texas 75080-3021<br />972 883-2111 <br />
+			&copy; The University of Texas at Dallas <br />
+			<a href="/comments/">Questions or comments</a> about this page?
+		</div>
+	</div>
+	</div>
+
+		
+		<script type='text/javascript'>
+			$(document).ready(function(){
+				$("#page-url").text(document.location.hostname+document.location.pathname);
+			});
+		</script>
+
+		<script type="text/javascript">
+// WebTrends SmartSource Data Collector Tag v10.2.91
+// Copyright (c) 2013 Webtrends Inc.  All rights reserved.
+// Tag Builder Version: 4.1.0.54
+// Created: 2013.06.05
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsvxo7b700000gk6nbtgclkd_4w7j",
+        domain:"statse.webtrendslive.com",
+        timezone:-6,
+        i18n:true,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:true,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        anchor:true,
+        javascript: true,
+        onsitedoms:"utdallas.edu",
+        fpcdom:".utdallas.edu",
+        plugins:{
+            hm:{src:"//s.webtrends.com/js/webtrends.hm.js"},
+            facebook:{src:"//s.webtrends.com/js/webtrends.fb.js"},
+            yt:{src:"//s.webtrends.com/js/webtrends.yt.js"}			
+        }
+        }).track();
+};
+(function(){
+    var h=document.location.protocol;
+    var s=document.createElement("script"); s.async=true; s.src=h+"//www.utdallas.edu/websvcs/shared/webtrends.js";   
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+	<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+	
+</html>
